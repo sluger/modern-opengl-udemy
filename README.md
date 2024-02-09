@@ -1,6 +1,6 @@
 # modern-opengl-udemy
 
-This repo is a starter setup for modern OpenGL with GLFW and GLEW built with cmake and clang on macOS.
+This repo is based on https://github.com/sluger/modern-opengl-starter and serves as a playground for the udemy course on Computer Graphics with Modern OpenGL and C++ by Ben Cook.
 
 ## Prerequisites
 
