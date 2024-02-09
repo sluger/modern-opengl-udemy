@@ -13,7 +13,7 @@ Also recommending the cpp and cmake VS Code extensions.
 ## Install
 
 ```
-git clone --recursive git@github.com:sluger/modern-opengl-udemy.git
+git clone git@github.com:sluger/modern-opengl-udemy.git
 cd modern-opengl
 mkdir build
 cd build
