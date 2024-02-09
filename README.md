@@ -1,4 +1,4 @@
-# modern-opengl-starter
+# modern-opengl-udemy
 
 This repo is a starter setup for modern OpenGL with GLFW and GLEW built with cmake and clang on macOS.
 
@@ -13,8 +13,8 @@ Also recommending the cpp and cmake VS Code extensions.
 ## Install
 
 ```
-git clone --recursive git@github.com:sluger/modern-opengl-starter.git
-cd modern-opengl-starter
+git clone --recursive git@github.com:sluger/modern-opengl-udemy.git
+cd modern-opengl
 mkdir build
 cd build
 cmake ..
@@ -24,5 +24,5 @@ make -j
 ## Run the application
 
 ```
-./modern-opengl-starter
+./modern-opengl
 ```
